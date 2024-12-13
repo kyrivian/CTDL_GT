@@ -1,0 +1,40 @@
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.exe
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\aa\C#\TowersWindows\obj\Debug\TowersWindows.csprojAssemblyReference.cache
+C:\Projects\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Projects\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Projects\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Projects\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\Users\Admin\Downloads\Orange\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\Admin\Downloads\Orange\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\Admin\Downloads\Orange\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\Admin\Downloads\Orange\TowersWindows\obj\Debug\TowersWindows.pdb
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\bin\Debug\TowersWindows.exe.config
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\bin\Debug\TowersWindows.exe
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\bin\Debug\TowersWindows.pdb
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.Form1.resources
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.Properties.Resources.resources
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.exe
+C:\Users\hp\Documents\Zalo Received Files\TowersWindows\obj\Debug\TowersWindows.pdb
